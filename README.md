@@ -17,7 +17,7 @@
 
 ## <samp>~/projects</samp>
 
-<a href="https://github.com/Hot-Sweeper/still-browser"><img align="right" src="assets/still-browser-ascii.png" width="88" height="88" alt="Still's complete original app icon, converted to ASCII with its original transparency"></a>
+<a href="https://github.com/Hot-Sweeper/still-browser"><img align="right" src="assets/still-browser-ascii.png?v=white-hires" width="88" height="88" alt="Still's white logo mark in high-density ASCII, on a transparent background"></a>
 
 ### [<samp>Still Browser</samp>](https://github.com/Hot-Sweeper/still-browser)
 
