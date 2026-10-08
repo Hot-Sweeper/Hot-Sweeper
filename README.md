@@ -23,7 +23,7 @@ My side projects help me **stay focused, simplify everyday life, and automate re
 
 ## <samp>~/projects</samp>
 
-<a href="https://github.com/Hot-Sweeper/still-browser"><img align="right" src="assets/still-browser-ascii.png?v=white-open" width="88" height="88" alt="Still's white logo mark in open ASCII, on a transparent background"></a>
+<a href="https://github.com/Hot-Sweeper/still-browser"><img align="right" src="assets/still-browser-ascii.png?v=white-open-2" width="88" height="88" alt="Still's white logo mark in open ASCII, on a transparent background"></a>
 
 ### [<samp>Still Browser</samp>](https://github.com/Hot-Sweeper/still-browser)
 
