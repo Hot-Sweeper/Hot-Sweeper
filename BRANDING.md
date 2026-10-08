@@ -18,7 +18,7 @@ Use a monospace typeface in headers. Use the project's accent for prompts and st
 
 The project logos were rendered with the original `ascii_art.py` colored ASCII algorithm: measured glyph-density ramp, unsharp masking, CLAHE local contrast, Canny edges, Sobel-directed edge characters, sampled RGB colors, and brighten mode. The original Consolas font was used during generation.
 
-Still's source is its existing `build/icon.png`, cropped to the central mark. Peak's source uses the exact three rounded pink EQ bars from its native SVG logo. Sources were resized to a 1408-pixel longest side for a coarser ASCII density. The algorithm itself was unchanged; font lookup and diagnostic output paths were adapted for the local environment.
+Still's source is its complete existing `build/icon.png`, including its rounded-square silhouette. Its converted logo keeps a rounded mask and a subtle monochrome frame. Peak's source uses the exact three rounded pink EQ bars from its native SVG logo. Sources were resized to a 1408-pixel longest side for a coarser ASCII density. The algorithm itself was unchanged; font lookup and diagnostic output paths were adapted for the local environment.
 
 ## Status language
 
