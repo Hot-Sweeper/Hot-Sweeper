@@ -1,19 +1,49 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/profile-mobile.png">
-  <img src="assets/profile.png" alt="Mr. Lemon / Hot-Sweeper — a black terminal header with white type and lemon-yellow accents." width="1600">
-</picture>
+<p align="center">
+  <img src="assets/terminal-ascii.png" width="72" height="72" alt="Lemon-yellow ASCII terminal mark">
+</p>
 
-I build desktop tools, music apps, and experiments with local AI.
+<h1 align="center"><samp>Mr. Lemon_</samp></h1>
 
-`TypeScript` · `React` · `Next.js` · `Electron` · `Node.js`
+<p align="center"><samp>software with a little zest.</samp></p>
 
-### `$ ls projects/`
+<p align="center">
+  Desktop tools. Music apps. Experiments with local AI.
+</p>
 
-| Project | Status | What it does |
-| --- | --- | --- |
-| [Still Browser](https://github.com/Hot-Sweeper/still-browser) | **Experimental / Alpha** | A calm browser with five fixed browsing slots. **No stable release yet.** |
-| [Peak & Peak Studio](https://github.com/Hot-Sweeper/peak-and-peak-studio) | **Stable** | Slowed playback, reverb, and other audio effects, processed on your device. |
+<p align="center">
+  <samp>TypeScript · React · Next.js · Electron · Node.js</samp>
+</p>
+
+<br>
+
+## <samp>~/projects</samp>
+
+<a href="https://github.com/Hot-Sweeper/still-browser"><img align="right" src="assets/still-browser-ascii.png" width="88" height="88" alt="Still's complete original app icon, converted to ASCII with its original transparency"></a>
+
+### [<samp>Still Browser</samp>](https://github.com/Hot-Sweeper/still-browser)
+
+<sub><strong>EXPERIMENTAL / ALPHA</strong> · No stable release yet.</sub>
+
+A calmer browser built around **five fixed slots**. Keep a small working set visible instead of collecting more tabs.
+
+[Try an alpha build →](https://github.com/Hot-Sweeper/still-browser/releases) &nbsp; [Read the docs](https://github.com/Hot-Sweeper/still-browser#readme)
+
+<br clear="all">
 
 ---
 
-The project headers use my colored ASCII algorithm on their own logos, with each project's own colors. [Branding notes](BRANDING.md).
+<a href="https://github.com/Hot-Sweeper/peak-and-peak-studio"><img align="right" src="assets/peak-and-peak-studio-ascii.png" width="88" height="88" alt="Peak's original pink EQ bars, converted to ASCII"></a>
+
+### [<samp>Peak &amp; Peak Studio</samp>](https://github.com/Hot-Sweeper/peak-and-peak-studio)
+
+<sub><strong>STABLE</strong> · Browser audio studio.</sub>
+
+**Slowed playback, reverb, and a little more bass.** Shape a track and export it on your device. Your audio stays in your browser.
+
+[Explore the studio →](https://github.com/Hot-Sweeper/peak-and-peak-studio#readme) &nbsp; [Run it locally](https://github.com/Hot-Sweeper/peak-and-peak-studio#run-locally)
+
+<br clear="all">
+
+---
+
+<p align="center"><sub><samp>built by Hot-Sweeper · signed, Mr. Lemon</samp></sub></p>

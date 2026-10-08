@@ -1,6 +1,6 @@
 # Mr. Lemon branding
 
-A shared compact terminal header and colored ASCII logo treatment. Each project keeps its own visual identity; README content stays as native text below the header.
+A native README layout with monospace headings and colored ASCII logo marks. Each page has one title. Titles, descriptions, navigation, and project summaries remain selectable, responsive text rather than banner screenshots.
 
 | Role | Color |
 | --- | --- |
@@ -12,26 +12,29 @@ A shared compact terminal header and colored ASCII logo treatment. Each project 
 | Secondary text | `#A4ABB5` |
 | Dividers | `#292D34` |
 
-Use a monospace typeface in headers. Use the project's accent for prompts and status labels; keep titles white and supporting text gray. The profile uses lemon yellow. Still uses its original monochrome mark, and Peak uses its original pink EQ bars. Use concise, factual project descriptions.
+Use native `<samp>` text for the monospace identity. The profile's small ASCII terminal mark uses lemon yellow. Still uses its complete original monochrome icon, and Peak uses its original pink EQ bars. Native text follows the visitor's GitHub theme. Keep color in logo artwork and compact status badges.
 
 ## Artwork
 
 The project logos were rendered with the original `ascii_art.py` colored ASCII algorithm: measured glyph-density ramp, unsharp masking, CLAHE local contrast, Canny edges, Sobel-directed edge characters, sampled RGB colors, and brighten mode. The original Consolas font was used during generation.
 
-Still's source is its complete existing `build/icon.png`, including its rounded-square silhouette. Its converted logo keeps a rounded mask and a subtle monochrome frame. Peak's source uses the exact three rounded pink EQ bars from its native SVG logo. Sources were resized to a 1408-pixel longest side for a coarser ASCII density. The algorithm itself was unchanged; font lookup and diagnostic output paths were adapted for the local environment.
+Still's source is the complete, uncropped `build/icon.png`. Its actual input alpha channel is carried into the converted output. There is no estimated corner radius, geometric mask, color blend, synthetic backing, or drawn frame. Its rounded silhouette comes entirely from the original icon.
+
+Peak's source uses the exact three rounded pink EQ bars from its native SVG logo. Sources are rendered at 1024 pixels with the original font and algorithm. The algorithm itself is unchanged; font lookup and diagnostic output paths are adapted for the local environment. For the Peak and terminal marks, the renderer's empty black canvas becomes transparent while glyph RGB colors remain untouched.
 
 ## Status language
 
 - **Still Browser:** `Experimental / Alpha` — **no stable release yet**. Packaged downloads are prerelease test builds. Future automated releases remain prereleases until the project intentionally moves beyond alpha.
 - **Peak & Peak Studio:** `Stable` — browser audio studio.
 
-Repeat these labels in repository descriptions, README banners, and the profile. Status should remain understandable without relying on color.
+Repeat these labels in repository descriptions and native README content. Status should remain understandable without relying on color.
 
 ## Assets
 
-- `assets/profile.png` — desktop profile header
-- `assets/profile-mobile.png` — compact profile header
+- `assets/terminal-ascii.png` — small personal terminal signature
+- `assets/still-browser-ascii.png` — complete Still icon, including original alpha
+- `assets/peak-and-peak-studio-ascii.png` — pink EQ mark
 - `assets/still-browser-social.png` — Still social preview
 - `assets/peak-and-peak-studio-social.png` — Peak social preview
 
-Each project stores its README banners and social preview in `.github/assets/`. Banners contain their own dark background and work with either GitHub theme. Text alternatives and native links keep project information accessible.
+Each project stores its ASCII icon and social preview in `.github/assets/`. READMEs embed the small ASCII logo, then render the title and body natively. Full image compositions are reserved for GitHub's social preview, which requires an image. Text alternatives and native links keep project information accessible.
