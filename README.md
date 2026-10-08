@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/terminal-ascii.png" width="72" height="72" alt="Lemon-yellow ASCII terminal mark">
+  <img src="assets/terminal-ascii.png" width="88" height="88" alt="Lemon-yellow ASCII terminal mark">
 </p>
 
-<h1 align="center"><samp>Mr. Lemon_</samp></h1>
+<h1 align="center">Mr. Lemon_</h1>
 
 <p align="center"><samp>software with a little zest.</samp></p>
 
@@ -14,7 +14,6 @@
   <samp>TypeScript · React · Next.js · Electron · Node.js</samp>
 </p>
 
-<br>
 
 ## <samp>~/projects</samp>
 
