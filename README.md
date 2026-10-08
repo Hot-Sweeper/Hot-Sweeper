@@ -1,22 +1,19 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/profile-mobile.png">
-  <img src="assets/profile.png" alt="Mr. Lemon / Hot-Sweeper. I build desktop tools, music apps, and experiments with local AI. TypeScript, React, Next.js, Electron, and Node.js. Still Browser: experimental alpha, no stable release yet. Peak & Peak Studio: stable browser audio studio." width="1600">
+  <img src="assets/profile.png" alt="Mr. Lemon / Hot-Sweeper — a black terminal header with white type and lemon-yellow accents." width="1600">
 </picture>
-
-**[Still Browser · Experimental alpha](https://github.com/Hot-Sweeper/still-browser)** &nbsp; · &nbsp; **[Peak & Peak Studio · Stable](https://github.com/Hot-Sweeper/peak-and-peak-studio)**
-
-<details>
-<summary>About me and my projects</summary>
-
-### Mr. Lemon / Hot-Sweeper
 
 I build desktop tools, music apps, and experiments with local AI.
 
-**Tools:** TypeScript, React, Next.js, Electron, and Node.js.
+`TypeScript` · `React` · `Next.js` · `Electron` · `Node.js`
 
-- **[Still Browser](https://github.com/Hot-Sweeper/still-browser)** — a calm browser with five fixed browsing slots. **Experimental alpha; no stable release yet.**
-- **[Peak & Peak Studio](https://github.com/Hot-Sweeper/peak-and-peak-studio)** — a **stable** browser audio studio for slowed playback, reverb, and other effects. Audio is processed on your device.
+### `$ ls projects/`
 
-The lemon artwork uses my colored ASCII generator. [Branding notes](BRANDING.md).
+| Project | Status | What it does |
+| --- | --- | --- |
+| [Still Browser](https://github.com/Hot-Sweeper/still-browser) | **Experimental / Alpha** | A calm browser with five fixed browsing slots. **No stable release yet.** |
+| [Peak & Peak Studio](https://github.com/Hot-Sweeper/peak-and-peak-studio) | **Stable** | Slowed playback, reverb, and other audio effects, processed on your device. |
 
-</details>
+---
+
+The project headers use my colored ASCII algorithm on their own logos, with each project's own colors. [Branding notes](BRANDING.md).
