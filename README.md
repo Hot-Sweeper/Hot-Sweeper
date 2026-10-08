@@ -55,6 +55,7 @@ A calmer browser built around **five fixed slots**. Keep a small working set vis
 
 - **Current OS:** CachyOS Linux (Arch-based).
 - **Coding agent:** Codex.
+- **Local AI tools:** ComfyUI · LM Studio.
 - **Models I use:** [Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) · [Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next).
 
 ---
