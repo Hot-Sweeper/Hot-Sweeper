@@ -7,7 +7,7 @@
 <p align="center"><samp>software with a little zest.</samp></p>
 
 <p align="center">
-  Desktop tools. Music apps. Experiments with local AI.
+  Local AI. Real-time voice. Tools for a calmer day.
 </p>
 
 <p align="center">
@@ -15,9 +15,15 @@
 </p>
 
 
+## <samp>~/about</samp>
+
+I love building with AI, especially **local models and real-time voice pipelines**. I'm happiest turning an idea into something I can use every day.
+
+My side projects help me **stay focused, simplify everyday life, and automate repetitive work**—including YouTube channel workflows. Sometimes it's a useful tool. Sometimes it's an experiment I just had to try.
+
 ## <samp>~/projects</samp>
 
-<a href="https://github.com/Hot-Sweeper/still-browser"><img align="right" src="assets/still-browser-ascii.png?v=white-hires" width="88" height="88" alt="Still's white logo mark in high-density ASCII, on a transparent background"></a>
+<a href="https://github.com/Hot-Sweeper/still-browser"><img align="right" src="assets/still-browser-ascii.png?v=white-open" width="88" height="88" alt="Still's white logo mark in open ASCII, on a transparent background"></a>
 
 ### [<samp>Still Browser</samp>](https://github.com/Hot-Sweeper/still-browser)
 
@@ -42,6 +48,14 @@ A calmer browser built around **five fixed slots**. Keep a small working set vis
 [Explore the studio →](https://github.com/Hot-Sweeper/peak-and-peak-studio#readme) &nbsp; [Run it locally](https://github.com/Hot-Sweeper/peak-and-peak-studio#run-locally)
 
 <br clear="all">
+
+---
+
+## <samp>~/setup</samp>
+
+- **Current OS:** CachyOS Linux (Arch-based).
+- **Coding agent:** Codex · ChatGPT Pro ($200/month).
+- **Models I use:** [Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) · [Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next).
 
 ---
 
