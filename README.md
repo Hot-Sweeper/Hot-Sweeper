@@ -17,9 +17,9 @@
 
 ## <samp>~/about</samp>
 
-I love building with AI, especially **local models and real-time voice pipelines**. I'm happiest turning an idea into something I can use every day.
+I love messing around with local AI and building real-time voice pipelines. My side projects are usually tools I want to use myself, especially if they help me focus or make everyday tasks easier.
 
-My side projects help me **stay focused, simplify everyday life, and automate repetitive work**—including YouTube channel workflows. Sometimes it's a useful tool. Sometimes it's an experiment I just had to try.
+I also like automating YouTube channel workflows and experimenting with ComfyUI and LM Studio.
 
 ## <samp>~/projects</samp>
 
