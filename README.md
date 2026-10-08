@@ -54,7 +54,7 @@ A calmer browser built around **five fixed slots**. Keep a small working set vis
 ## <samp>~/setup</samp>
 
 - **Current OS:** CachyOS Linux (Arch-based).
-- **Coding agent:** Codex · ChatGPT Pro ($200/month).
+- **Coding agent:** Codex.
 - **Models I use:** [Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) · [Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next).
 
 ---
