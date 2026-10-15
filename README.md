@@ -14,6 +14,10 @@
   <samp>TypeScript · React · Next.js · Electron · Node.js</samp>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Hot-Sweeper/badnotes-desktop"><img src="https://img.shields.io/badge/NEW-BadNotes_is_open_source-7640fd?style=flat-square&amp;labelColor=161b22" alt="New: BadNotes is open source"></a>
+</p>
+
 
 ## <samp>~/about</samp>
 
@@ -22,6 +26,24 @@ I love messing around with local AI and building real-time voice pipelines. My s
 I also like automating YouTube channel workflows and experimenting with ComfyUI and LM Studio.
 
 ## <samp>~/projects</samp>
+
+<a href="https://github.com/Hot-Sweeper/badnotes-desktop"><img align="right" src="assets/badnotes-logo.png" width="88" height="88" alt="BadNotes purple handwritten page and pen"></a>
+
+### [<samp>BadNotes</samp>](https://github.com/Hot-Sweeper/badnotes-desktop)
+
+<sub><strong>OPEN SOURCE / ALPHA</strong> · Windows · Linux · macOS</sub>
+
+**Your handwriting. Your space.** A local-first notebook for handwritten notes, sketches, and ideas in motion. Draw, lasso, reshape, and organize pages in a purple-and-pink workspace. Your notebooks stay on your device.
+
+[Try the first alpha →](https://github.com/Hot-Sweeper/badnotes-desktop/releases) &nbsp; [Source &amp; docs](https://github.com/Hot-Sweeper/badnotes-desktop#readme)
+
+<br clear="all">
+
+<p align="center">
+  <a href="https://github.com/Hot-Sweeper/badnotes-desktop"><img src="assets/badnotes-workspace.png" width="800" alt="BadNotes workspace with custom notebooks, geometric sketches on dotted paper, and a floating drawing toolbar. Demonstration notes only."></a>
+</p>
+
+---
 
 <a href="https://github.com/Hot-Sweeper/still-browser"><img align="right" src="assets/still-browser-ascii.png?v=white-open-2" width="88" height="88" alt="Still's white logo mark in open ASCII, on a transparent background"></a>
 
