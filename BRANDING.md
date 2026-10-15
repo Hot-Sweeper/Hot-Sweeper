@@ -6,17 +6,22 @@ A native README layout with monospace headings and colored ASCII logo marks. Eac
 | --- | --- |
 | Terminal background | `#08090B` |
 | Profile lemon accent | `#FFE45C` |
+| BadNotes purple accent | `#7640FD` |
 | Still monochrome accent | `#ECEEEC` |
 | Peak pink accent | `#FF2D55` |
 | Main text | `#F7F8FA` |
 | Secondary text | `#A4ABB5` |
 | Dividers | `#292D34` |
 
-Use native `<samp>` text for the monospace identity. The profile's small ASCII terminal mark uses lemon yellow. Still uses its white foreground mark, and Peak uses its original pink EQ bars. Native text follows the visitor's GitHub theme. Keep color in logo artwork and compact status badges.
+Use native `<samp>` text for the monospace identity. The profile's small ASCII terminal mark uses lemon yellow. BadNotes keeps its purple page-and-pen logo colors, Still uses its white foreground mark, and Peak uses its original pink EQ bars. Native text follows the visitor's GitHub theme. Keep color in logo artwork and compact status badges.
 
 ## Artwork
 
 The project logos were rendered with the original `ascii_art.py` colored ASCII algorithm: measured glyph-density ramp, unsharp masking, CLAHE local contrast, Canny edges, Sobel-directed edge characters, sampled RGB colors, and brighten mode. The original Consolas font was used during generation.
+
+BadNotes uses its existing transparent page-and-pen logo as the source, not a redrawn approximation. It is rendered from a 1440-pixel source at 41 × 32 glyphs with the same recovered Windows pirate-wallpaper converter and original Consolas font. Glyph RGB colors are unchanged; the empty black renderer canvas is removed and the result is clipped to the source logo's transparency to avoid background speckles. The profile displays the result at 88 × 88 pixels, matching the other project marks. The full-color source remains in `assets/badnotes-logo.png`; the application icon is unchanged.
+
+The recovered algorithm's SHA-256 is `498c38342522e604c23ee9108c15e63ed9295e512baa21729a0b266f6b678773`. Platform adaptations affect only font lookup and diagnostic output paths; transparency is applied after rendering. The Windows font is not distributed in this repository.
 
 Still's source is the white foreground mark extracted from `build/icon.png`. The dark app tile is removed, and the mark is centered with a small transparent margin. The original converter renders a 1440-pixel source at 41 × 32 glyphs, giving the characters more room than the previous 87 × 68 grid. The transparent result is saved at 3072 pixels. The output's visible pixels are pure white; glyph antialiasing and source foreground coverage control transparency. There is no geometric corner mask, backing tile, or drawn frame.
 
@@ -32,6 +37,7 @@ Repeat these labels in repository descriptions and native README content. Status
 ## Assets
 
 - `assets/terminal-ascii.png` — small personal terminal signature
+- `assets/badnotes-ascii.png` — purple page-and-pen mark, rendered with the recovered converter
 - `assets/still-browser-ascii.png` — open white Still mark, with a transparent background
 - `assets/peak-and-peak-studio-ascii.png` — pink EQ mark
 - `assets/still-browser-social.png` — Still social preview

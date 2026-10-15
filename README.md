@@ -27,7 +27,7 @@ I'm into local AI and real-time voice pipelines, especially things that help me 
 
 ## <samp>~/projects</samp>
 
-<a href="https://github.com/Hot-Sweeper/badnotes-desktop"><img align="right" src="assets/badnotes-logo.png" width="88" height="88" alt="BadNotes purple handwritten page and pen"></a>
+<a href="https://github.com/Hot-Sweeper/badnotes-desktop"><img align="right" src="assets/badnotes-ascii.png" width="88" height="88" alt="BadNotes purple page and pen rendered with the original colored ASCII pipeline"></a>
 
 ### [<samp>BadNotes</samp>](https://github.com/Hot-Sweeper/badnotes-desktop)
 
