@@ -71,7 +71,7 @@ A browser audio studio for making a perfectly good song slower and giving it par
 
 ## <samp>~/setup</samp>
 
-- **Current OS:** CachyOS Linux (Arch-based).
+- **Current OS:** Arch btw.
 - **Coding agents:** Claude Code · Codex.
 - **Local AI tools:** ComfyUI · LM Studio.
 - **Models I use:** Gemma 4 26B MoE · [Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) · [Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next).
