@@ -33,15 +33,11 @@ I also like automating YouTube channel workflows and experimenting with ComfyUI 
 
 <sub><strong>OPEN SOURCE / ALPHA</strong> · Windows · Linux · macOS</sub>
 
-**Your handwriting. Your space.** A local-first notebook for handwritten notes, sketches, and ideas in motion. Draw, lasso, reshape, and organize pages in a purple-and-pink workspace. Your notebooks stay on your device.
+**Your handwriting. Your space.** A local-first notebook for handwriting, sketches, and geometry. Lasso ideas, arrange pages, and keep your notes on your device.
 
 [Try the first alpha →](https://github.com/Hot-Sweeper/badnotes-desktop/releases) &nbsp; [Source &amp; docs](https://github.com/Hot-Sweeper/badnotes-desktop#readme)
 
 <br clear="all">
-
-<p align="center">
-  <a href="https://github.com/Hot-Sweeper/badnotes-desktop"><img src="assets/badnotes-workspace.png" width="800" alt="BadNotes workspace with custom notebooks, geometric sketches on dotted paper, and a floating drawing toolbar. Demonstration notes only."></a>
-</p>
 
 ---
 
