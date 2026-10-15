@@ -7,7 +7,7 @@
 <p align="center"><samp>software with a little zest.</samp></p>
 
 <p align="center">
-  Local AI. Real-time voice. Tools for a calmer day.
+  Local AI, real-time voice, and projects that started with &quot;how hard can it be?&quot;
 </p>
 
 <p align="center">
@@ -21,9 +21,9 @@
 
 ## <samp>~/about</samp>
 
-I love messing around with local AI and building real-time voice pipelines. My side projects are usually tools I want to use myself, especially if they help me focus or make everyday tasks easier.
+I build tools I want to use myself, usually with Claude Code and Codex open somewhere. A suspicious amount of time goes into how the buttons feel.
 
-I also like automating YouTube channel workflows and experimenting with ComfyUI and LM Studio.
+I'm into local AI and real-time voice pipelines, especially things that help me focus or make everyday tasks less annoying. I also automate YouTube workflows and tinker with ComfyUI and LM Studio.
 
 ## <samp>~/projects</samp>
 
@@ -33,7 +33,7 @@ I also like automating YouTube channel workflows and experimenting with ComfyUI 
 
 <sub><strong>OPEN SOURCE / ALPHA</strong> · Windows · Linux · macOS</sub>
 
-**Your handwriting. Your space.** A local-first notebook for handwriting, sketches, and geometry. Lasso ideas, arrange pages, and keep your notes on your device.
+Basically my open-source, vibecoded take on Goodnotes, aiming for less bloat. It has handwriting, geometry, and a lasso for moving things around; your notebooks stay local. The trash animation may have become a side quest.
 
 [Try the first alpha →](https://github.com/Hot-Sweeper/badnotes-desktop/releases) &nbsp; [Source &amp; docs](https://github.com/Hot-Sweeper/badnotes-desktop#readme)
 
@@ -47,7 +47,7 @@ I also like automating YouTube channel workflows and experimenting with ComfyUI 
 
 <sub><strong>EXPERIMENTAL / ALPHA</strong> · No stable release yet.</sub>
 
-A calmer browser built around **five fixed slots**. Keep a small working set visible instead of collecting more tabs.
+A Chromium browser with five fixed slots, for anyone whose tab bar is mostly microscopic favicons. Drag to reorder them and pick up the same working set when you come back.
 
 [Try an alpha build →](https://github.com/Hot-Sweeper/still-browser/releases) &nbsp; [Read the docs](https://github.com/Hot-Sweeper/still-browser#readme)
 
@@ -61,7 +61,7 @@ A calmer browser built around **five fixed slots**. Keep a small working set vis
 
 <sub><strong>STABLE</strong> · Browser audio studio.</sub>
 
-**Slowed playback, reverb, and a little more bass.** Shape a track and export it on your device. Your audio stays in your browser.
+A browser audio studio for making a perfectly good song slower and giving it parking-garage acoustics. Reverb, bass, pitch controls, and WAV export. Your audio stays local.
 
 [Explore the studio →](https://github.com/Hot-Sweeper/peak-and-peak-studio#readme) &nbsp; [Run it locally](https://github.com/Hot-Sweeper/peak-and-peak-studio#run-locally)
 
@@ -72,9 +72,9 @@ A calmer browser built around **five fixed slots**. Keep a small working set vis
 ## <samp>~/setup</samp>
 
 - **Current OS:** CachyOS Linux (Arch-based).
-- **Coding agent:** Codex.
+- **Coding agents:** Claude Code · Codex.
 - **Local AI tools:** ComfyUI · LM Studio.
-- **Models I use:** [Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) · [Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next).
+- **Models I use:** Gemma 4 26B MoE · [Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) · [Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next).
 
 ---
 
