@@ -74,7 +74,7 @@ A browser audio studio for making a perfectly good song slower and giving it par
 - **Current OS:** Arch btw.
 - **Coding agents:** Claude Code · Codex.
 - **Local AI tools:** ComfyUI · LM Studio.
-- **Models I use:** Gemma 4 26B MoE · [Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) · [Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next).
+- **Models I use:** [Gemma 4 26B MoE](https://huggingface.co/google/gemma-4-26B-A4B) · [Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) · [Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next).
 
 ---
 
